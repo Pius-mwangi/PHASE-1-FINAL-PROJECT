@@ -1,13 +1,1 @@
-h1{
-    text-align: center;
-}
-#btn1{
-    text-align: center;
-    transition: transform 0s,ease,0.3s;
-    color: #000;
 
-}
-#btn1:hover{
-    transform: translateY(-10px)
-
-}
